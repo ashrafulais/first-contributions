@@ -16,7 +16,7 @@
 
 2. Get the link of your forked git repository repository for clone-
 
-![clone](images/clone_new.png)
+![clone](images/clone.png)
 
 Clone the forked repository to your computer using the following command-
 
